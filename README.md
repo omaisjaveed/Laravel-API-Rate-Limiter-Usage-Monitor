@@ -2,6 +2,12 @@
 
 A local Laravel application that authenticates API clients with hashed API keys, enforces **per-client** fixed-window rate limits (minute / hour / day) using Laravel’s **database cache driver** (no Redis), and records safe API usage logs for an admin dashboard.
 
+## Author
+
+- **Name:** Omais Javeed  
+- **Email:** [omaisjaveed7@gmail.com](mailto:omaisjaveed7@gmail.com)  
+- **GitHub:** [https://github.com/omaisjaveed/Laravel-API-Rate-Limiter-Usage-Monitor/](https://github.com/omaisjaveed/Laravel-API-Rate-Limiter-Usage-Monitor/)
+
 ## Stack
 
 - PHP 8.2+ / Laravel 12
@@ -257,3 +263,7 @@ Covered areas include:
 - Cache driver must remain `database` (project requirement: no Redis).
 - If Composer HTTPS/SSL fails on Windows/XAMPP, fix CA certificates or use a working Composer setup before installing packages.
 - Keep generated API keys private; treat them like passwords.
+
+---
+
+Built by **Omais Javeed** · [omaisjaveed7@gmail.com](mailto:omaisjaveed7@gmail.com) · [GitHub Repository](https://github.com/omaisjaveed/Laravel-API-Rate-Limiter-Usage-Monitor/)
