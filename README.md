@@ -2,7 +2,6 @@
   <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12" />
   <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/No_Redis-Database_Cache-0D9488?style=for-the-badge" alt="No Redis" />
 </p>
 
 <h1 align="center">🛡️ Laravel API Rate Limiter & Usage Monitor</h1>
